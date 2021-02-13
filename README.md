@@ -25,9 +25,9 @@ Também sou um entusiasta e mantenedor ao desenvolvimento web. Aprendi muito com
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 23 mins  ███████████████████████░░  60.00 % 
-Flutter      1 hr 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░  10.00 % 
-Git Config   30 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░  00.67 % 
-Dart   1 hrs                ░░░░░░░░░░░░░░░░░░░░░░░░░  30.00 % 
+Flutter      1 hr 19 mins   ██████████░░░░░░░░░░░░░░░  10.00 % 
+Git Config   30 mins        ████░░░░░░░░░░░░░░░░░░░░░  00.67 % 
+Dart   1 hrs                ███████░░░░░░░░░░░░░░░░░░  30.00 % 
 ```
 <!--END_SECTION:waka-->
 
