@@ -37,7 +37,7 @@ Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺
 
 🚧 **Vamos lá:**
 <!-- TODO-IST:START -->
-🏆  7,412 Karma Points           
+🏆  1,000 Life Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 574 tasks so far           
 ⏳  Longest streak is 10 days
