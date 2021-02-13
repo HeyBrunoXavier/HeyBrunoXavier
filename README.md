@@ -7,7 +7,7 @@ Também sou um entusiasta e mantenedor do código aberto. Aprendi muito com a co
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+- 💬 Pergunte-me sobre qualquer coisa;
 - 📫 Como me encontrar: [@BrunoXavier](https://www.linkedin.com/in/bruno-xavier-48a038167/);
 - ✨ **Quer conversar?**
 - 📝 [Resume](https://www.linkedin.com/in/bruno-xavier-48a038167/)
