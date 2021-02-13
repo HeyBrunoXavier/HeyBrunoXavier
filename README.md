@@ -2,7 +2,7 @@
 
 Olá, sou Bruno Xavier, um apaixonado e desenvolvedor Web Full Stack.
 
-Também sou um entusiasta e mantenedor do código aberto. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de novos conhecimentos que acontecem por meio do código aberto.
+Também sou um entusiasta e mantenedor ao desenvolvimento web. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de novos conhecimentos que acontecem por meio das comunidades.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
