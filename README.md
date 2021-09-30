@@ -1,6 +1,6 @@
 <br />
 
-Olá, sou Bruno Xavier, um apaixonado e desenvolvedor Web Full Stack.
+Olá, sou Bruno Xavier, tenho 21 anos e sou um apaixonado e desenvolvedor Web Full Stack.
 
 Também sou um entusiasta e mantenedor ao desenvolvimento web. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de novos conhecimentos que acontecem por meio das comunidades.
 
@@ -15,36 +15,28 @@ Também sou um entusiasta e mantenedor ao desenvolvimento web. Aprendi muito com
 **Linguagens e ferramentas:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 📊 **Esta semana eu gastei meu tempo em:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 23 mins  ███████████████████████░░  50.00 % 
-Flutter      1 hr 19 mins   ██████████░░░░░░░░░░░░░░░  10.00 % 
-Git Config   30 mins        ████░░░░░░░░░░░░░░░░░░░░░  00.67 % 
-React  2 hrs                ███████░░░░░░░░░░░░░░░░░░  30.00 % 
+TypeScript   3 hrs 23 mins  ███████████████████████░░  50.00 % 
+NestJs       1 hr 19 mins   ██████████░░░░░░░░░░░░░░░  10.00 % 
+AWS          1 hr           ████░░░░░░░░░░░░░░░░░░░░░  00.67 % 
+React        2 hrs          ███████░░░░░░░░░░░░░░░░░░  30.00 % 
 ```
 <!--END_SECTION:waka-->
 
 Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **Vamos lá:**
-<!-- TODO-IST:START -->
-🏆  1,000 Life Points           
-🌸  Completed 0 tasks today           
-✅  Completed 574 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<a href="" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 📈 My GitHub Stats
