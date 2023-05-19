@@ -51,3 +51,8 @@ Se você gosta do que eu faço, talvez considere me comprar um café / chá 🥺
     />
   </a>
 </p>
+
+
+<div> 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div
