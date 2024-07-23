@@ -1,6 +1,6 @@
 <br />
 
-Olá, sou Bruno Xavier, tenho 23 anos e sou um apaixonado e desenvolvedor Full Stack.
+Olá, sou Bruno Xavier, tenho 24 anos e sou um apaixonado e desenvolvedor especializado na parte de Backend.
 
 Também sou um entusiasta e mantenedor ao desenvolvimento de sistemas. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de novos conhecimentos que acontecem por meio das comunidades.
 
@@ -27,8 +27,8 @@ Também sou um entusiasta e mantenedor ao desenvolvimento de sistemas. Aprendi m
 📊 **Esta semana eu gastei meu tempo em:**
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 23 mins  ███████████████████████░░  50.00 % 
-NestJs       1 hr 19 mins   ██████████░░░░░░░░░░░░░░░  10.00 % 
+TypeScript   3 hrs 23 mins  █████████████████████████  50.00 % 
+NestJs       1 hr 19 mins   █████████████████████████  10.00 % 
 AWS          1 hr           ████░░░░░░░░░░░░░░░░░░░░░  00.67 % 
 React        2 hrs          ███████░░░░░░░░░░░░░░░░░░  30.00 % 
 ```
