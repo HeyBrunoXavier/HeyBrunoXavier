@@ -1,6 +1,6 @@
 <br />
 
-Olá, sou Bruno Xavier, tenho 24 anos e sou um apaixonado e desenvolvedor especializado na parte de Backend.
+Olá, sou Bruno Xavier, tenho 26 anos e sou um apaixonado e desenvolvedor especializado na parte de Backend.
 
 Também sou um entusiasta e mantenedor ao desenvolvimento de sistemas. Aprendi muito com a comunidade de código aberto e adoro como a colaboração e o compartilhamento de novos conhecimentos que acontecem por meio das comunidades.
 
